@@ -44,10 +44,10 @@ h3{
     
 
 }
-.panel-active{
+.panel.active{
     flex: 5;
 }
-.panel-active h3{
+.panel.active h3{
     opacity: 1;
 }
 @media (max-width: 480px){
